@@ -1,0 +1,52 @@
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/UnityEngine.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/UnityEditor.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Promonster/Unity Project/Jun05/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Promonster/Unity Project/Jun05/obj/Debug/Assembly-CSharp.dll
+/Users/Promonster/Unity Project/Jun05/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Promonster/Unity Project/CardComplex/obj/Debug/Assembly-CSharp.dll
+/Users/Promonster/Unity Project/CardComplex/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/UnityEngine.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/UnityEditor.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Promonster/Unity Project/CardComplex/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/obj/Debug/Assembly-CSharp.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/UnityEngine.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/UnityEditor.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Promonster/Unity Project/Yoon Projcet/Cards In Hands/Temp/bin/Debug/DOTween.dll

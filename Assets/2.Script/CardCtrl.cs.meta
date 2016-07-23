@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 162bd5ce1841742099930be1ebe988a7
+timeCreated: 1467298151
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - card: {fileID: 162948, guid: 799a7f002465b4ac283eb7506e8687da, type: 2}
+  - cardTr: {fileID: 477108, guid: 799a7f002465b4ac283eb7506e8687da, type: 2}
+  - anim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
